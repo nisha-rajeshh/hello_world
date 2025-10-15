@@ -1,9 +1,9 @@
 
-Hello World
+Hey There!!
 =======
 
-simple generated webapp for IE4200
+This is my github
 -----------
 
-#explains the components of a simple neural network
+I have experience in java, python, and pandas (library in python)
 
