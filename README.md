@@ -1,2 +1,10 @@
 # hello_world
-simple generated webapp for IE4200 that explains the components of a simple neural network
+ 
+Hello World
+=======
+
+simple generated webapp for IE4200
+-----------
+
+#explains the components of a simple neural network
+
